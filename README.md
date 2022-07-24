@@ -1,6 +1,6 @@
 ![LinkedIN Badge]()
 
-## Website link - https://my-linkedin-badge.netlify.app/
+### Website link - https://my-linkedin-badge.netlify.app/
 
 # Getting Started with Create React App
 
