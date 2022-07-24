@@ -1,4 +1,4 @@
-![LinkedIN Badge]()
+![LinkedIN Badge](https://github.com/Souraevshing/LinkedIN-badge/blob/main/linkedin-badge.png)
 
 ### Website link - https://my-linkedin-badge.netlify.app/
 
